@@ -9,7 +9,7 @@ from scripts.LDM_Model import LDM_Model
 from scripts.Utility_Functions import utility_functions
 
 data_path = os.path.join(os.getcwd(), "dataset\\hourly_dataset.csv")
-atk_vector_path = os.path.join(os.getcwd(), "dataset\\fdia_data.xlsx")
+atk_vector_path = os.path.join(os.getcwd(), "dataset\\fdi_attack_vector.xlsx")
 mm_scaler = MinMaxScaler((0,1))
 lookback = 48 # see pash 48 datapoints
 delay = 1     # forecast future 1 datapoint
