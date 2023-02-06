@@ -1,8 +1,7 @@
 # XTM
 <p> This Repository is accompanied by the paper titled, </p>
 
-> ***XTM : A Novel NLP based Transformer & LSTM model to
-Detect & Localization of Formally Verified FDI Attack In Smart Grid***. 
+> ***XTM: A Novel Transformer and LSTM-Based Model for Detection and Localization of Formally Verified FDI Attack in Smart Grid***. 
 
 <p> False data injection (FDI) attack in smart grid can cause catastrophic impact in energy management and distribution. Here, a novel hybrid model combining the state of the art transformer and LSTM is developed to detect the presence of FDI as well as the location of attack in smart grid. </p>
 
